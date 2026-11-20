@@ -1,0 +1,784 @@
+{
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "kind": "platinum",
+   "missable": false,
+   "stage": "cleanup",
+   "guide": "Earn the other 54 trophies and this one unlocks on its own. No multiplayer, no DLC and no online play is needed for any trophy in the set, so the platinum is a purely single-player grind. PowerPyx rates the whole run about 200 hours at difficulty 4/10, with the 100% checklist the longest part.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: 200 hours, 4/10, no multiplayer or DLC needed"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Play the opening mission, Gone Fishing, in Chapter 1. It is the first mission of the game and the trophy unlocks automatically when it ends, so it cannot be missed. Just follow the story.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Finish Chapter 1 of the story. Story trophies unlock automatically as you play through the chapters, and PowerPyx confirms none of the 12 story trophies can be missed. There are five chapters in total, and the story takes roughly 60 to 80 hours.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: 12 story trophies, none missable; five chapters, 60–80 hours"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Finish Chapter 2. Like every chapter trophy it unlocks automatically at the end of the chapter, so there is nothing extra to do and nothing to miss. Keep playing the story missions in order.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Finish Chapter 3. Automatic at the end of the chapter. If you are sweeping up side content, do it as you go, but the chapter itself only needs the story missions completed.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Finish Chapter 4. Automatic at the end of the chapter. Before moving into the final chapter, it is worth clearing any stranger strands and activities you have open, since there is no mission replay after the story.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: no mission replay; automatic story trophy"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Complete the final mission of the story (Chapter 5). This is the gold story trophy and it unlocks automatically when the credits roll. After the story there is still free-roam, but no mission replay, so finish anything tied to a mission before this point.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: free-roam after the story, no mission replay"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Complete the Breakfast Run mission. Story-mission trophies unlock automatically when the mission ends, so play the mission through to its conclusion. PowerPyx confirms story trophies cannot be missed.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Complete The Cartel Heist mission. It unlocks automatically when the mission is done. Heist missions are story beats, so just play through them; there is no extra objective to chase for the trophy itself.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Complete the Child's Play mission. Automatic when the mission ends. As with the other named-mission trophies, the only requirement is finishing the mission itself.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Complete the Headliners mission. Automatic on mission completion. Keep an eye on stranger strands and side activities between story missions rather than rushing straight through, since there is no mission replay.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy; no mission replay"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Complete the VCIA Takedown mission, set around Vice City International Airport. Automatic when the mission ends. The airport also matters for the Catch Me If You Can trophy, so note how the airport plays while you are there.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "stage": "story",
+   "guide": "Complete the Operation Savage Glory mission. Automatic on completion. This is one of the later named-mission trophies, so by the time it unlocks you should be well into the stranger strands and activity trophies too.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: automatic story trophy, cannot be missed"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "kind": "completion",
+   "missable": false,
+   "stage": "cleanup",
+   "guide": "Reach 100% on the in-game completion checklist (Progress menu), which only opens after you finish the story — but progress you made earlier still counts. The checklist has 35 lines and PowerPyx says it is closer to 60% true completion: most of it comes from other trophies, and you only need to scan 200 of 277 vehicles and study 100 of 255 animals. This is the hardest trophy and the last one most players will earn; expect the cleanup after the story to take around 100 hours.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: 35-line checklist, ~60% true completion, 200 of 277 vehicles, 100 of 255 animals; hardest trophy"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Complete 250 stunts. Stunts build up across normal play — jumps, near misses and stunt driving all count toward the total, and the counter keeps running through the whole game. There is no confirmed farming spot yet, so treat this as a background trophy and check the counter in the Progress menu as you play.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — no farming spot confirmed yet"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Try each type of activity once. The game tracks 9 activity types, which you can see at Touchpad, then Progress, then Activities. Work through that list one by one — a race, a fishing trip, a shooting range session, an arcade game, bowling and the rest — and the trophy pops once every type has been tried.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: 9 activity types at Touchpad > Progress > Activities"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Earn a gold medal in every Shooting Range challenge. Find the shooting ranges around Leonida and work through their challenges, aiming for gold on each. The exact range locations and challenge count are not fully pinned down yet, so expect this to take a few focused sessions once the ranges are mapped.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PSNProfiles — PSN progress counts for the range challenges",
+    "Own advice from the official description — range locations not yet pinned down"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Win a Top Fun Drone Race at every drone-race location. Drone races are one of the activity types, so find each location on the map and win a race there. The full list of locations is not pinned down yet — check the in-game activities menu, which lists the activity types you have tried.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — race locations not yet pinned down"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Win 20 different races. Races of every kind count — street races, drone races and any other race type the activities menu lists — as long as each one is a different race. Repeatable in free-roam after the story, so there is no rush and nothing to miss.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Beat Cal in a fishing challenge. Cal is the fishing rival you meet through the fishing activity; take the challenge and out-fish him. Fishing spots are found around Leonida's coast and waterways, and the activity also feeds the 9 activity types for Master of None.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — Cal's exact challenge spot not yet pinned down"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Complete an arcade game. Find an arcade cabinet — arcades are scattered around Leonida — and play a game through to its end. Any arcade game counts, so pick the easiest one you find.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — arcade locations not yet pinned down"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "kind": "stranger",
+   "missable": false,
+   "stage": "strangers",
+   "guide": "Complete the final mission in Andy's stranger strand. Stranger strands are side stories you pick up from characters marked on the map; play Andy's missions through to the last one. Do stranger strands as they appear during the story, since there is no mission replay.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: no mission replay; stranger strands done alongside the story"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "kind": "stranger",
+   "missable": false,
+   "stage": "strangers",
+   "guide": "Complete the final mission in Kenton's stranger strand. Follow Kenton's missions to their conclusion. Stranger strands are worth doing as you meet each character, rather than leaving them all for after the story.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: stranger strands done alongside the story"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "kind": "stranger",
+   "missable": false,
+   "stage": "strangers",
+   "guide": "Complete the final mission in Billy's stranger strand. Play Billy's missions through to the end. Each stranger's final mission has its own trophy, so clearing all five strands also feeds the Strangers & Freaks silver.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: stranger strands done alongside the story"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "kind": "stranger",
+   "missable": false,
+   "stage": "strangers",
+   "guide": "Complete 8 mission strands for strangers across Leonida. There are more than 8 stranger characters in the state, so pick any 8 strands and play each through to its end. The five named strangers (Andy, Kenton, Billy, Randy, Tyrone) each have their own trophy for their final mission, so those five strands are a natural start.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: stranger strands done alongside the story"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "kind": "stranger",
+   "missable": false,
+   "stage": "strangers",
+   "guide": "Complete the final mission in Randy's stranger strand. Follow Randy's missions to their conclusion. As with the other stranger trophies, do it when the strand opens rather than after the finale.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: no mission replay; stranger strands done alongside the story"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "kind": "stranger",
+   "missable": false,
+   "stage": "strangers",
+   "guide": "Complete the final mission in Tyrone's stranger strand. Play Tyrone's missions through to the last one. Clearing all five named stranger strands leaves you three strands short of the Strangers & Freaks silver, so keep meeting new strangers as you explore.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: stranger strands done alongside the story"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": true,
+   "stage": "story",
+   "guide": "Meditate at every spot across Leonida — 18 spots in 10 locations, with Jason and Lucia. DO THIS FIRST: PowerPyx flags this as the only potentially missable trophy in the game, because the first meditation spot is offered at Jason's house in Chapter 1 and becomes permanently unavailable after that chapter. Meditate there before finishing Chapter 1, then keep meditating at every spot you find for the rest of the game.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: only potentially missable trophy; first meditation at Jason's house in Chapter 1, unavailable after that chapter",
+    "PowerPyx via GTA VI guides: 18 spots in 10 locations"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "strangers",
+   "guide": "Hunt a unique animal for Bret. Bret's strand involves tracking a specific animal — study animals through the binoculars first, since studying 100 of 255 animals is also part of the 100% checklist. The exact animal and location are not pinned down yet, so follow Bret's strand when it opens.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: study 100 of 255 animals for 100% completion",
+    "Own advice from the official description — Bret's animal not yet pinned down"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "kind": "collectible",
+   "missable": false,
+   "stage": "collectibles",
+   "guide": "Complete 3 Collectible Card sets. Cards are hidden around Leonida; collect full sets of them. Cards can be picked up in free-roam after the story, so nothing is missable — but keep an eye out while exploring, since backtracking for cards is the slow part.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — card locations not yet mapped"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "kind": "collectible",
+   "missable": false,
+   "stage": "collectibles",
+   "guide": "WAiNK It at 100 locations. WAiNK is the in-game way of marking or snapping a location — use it at 100 different spots across Leonida. It is a slow, cumulative collectible, so make a habit of using it wherever you stop, and it pairs naturally with exploring the whole map for The Goodtime State.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — the exact WAiNK interaction is not fully documented yet"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Complete 50 challenges. There are 80 challenges in total and you need any 70 of them for the 100% checklist, so this trophy unlocks naturally on the way to A Long Road. Challenges cover the activity types — races, ranges, stunts and more — so just keep working the activities menu.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: 80 challenges; 50 for this trophy, 70 of 80 for 100%"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "With your partner beside you, build a 4-star Wanted level and then lose it and escape. Get the cops' attention with your partner in the car or on foot, push the heat to four stars, then break line of sight and stay hidden until the wanted level clears. Doable in free-roam at any time.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "With your partner, rob 3 shops back-to-back without losing your Wanted level. Plan a route past three shops, rob each in turn, and keep the heat on — do not let the wanted level drop between robberies. A fast getaway vehicle parked nearby helps; this is repeatable in free-roam, so retry as needed.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "missable": false,
+   "stage": "collectibles",
+   "guide": "Discover 100 vehicles. Vehicles count as discovered when you scan them — the same scanning that feeds the 100% checklist, which needs 200 of 277 base-model vehicles. Scan every new vehicle you see while driving around and this pops well before the 200 mark.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: scan 200 of 277 base-model vehicles for 100%"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the game's focused-aim mode: trigger it in a firefight with a group of enemies close together and drop five of them before it ends. Pick a fight with plenty of cover and a weapon that kills fast; retryable as often as you like.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Make an unscheduled departure at VCIA — Vice City International Airport. In plain terms: steal a plane at the airport and take off without following the rules. The exact trigger is not pinned down yet, so try taking off from the airport in a stolen aircraft in free-roam.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — exact trigger not yet pinned down"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Get into a Rhino tank — the description's hint is 'Kinda hot in these Rhinos'. Tanks are a GTA staple at military sites; find one, climb in and drive it. The exact spawn or mission tied to it is not pinned down yet.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — exact trigger not yet pinned down"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Rob a jewelry store without being detected. Go in quiet: avoid cameras and guards, take the goods and leave before anyone raises the alarm. Stealth gear and a quiet approach matter more than firepower here, and the attempt is repeatable if you are spotted.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Rob 5 bank vaults and escape each time. Bank robberies are bigger jobs than shop robberies — plan the approach, crack or force the vault, grab the take and get clear before the law closes in. Five successful vault jobs, each with a clean escape, earns the silver.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Rob an armored truck and escape. Find an armored truck on the road, stop it, break into the back and take the cash, then lose the wanted level. Trucks run routes around Leonida, so watch the roads and strike when one is isolated.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "missable": false,
+   "stage": "collectibles",
+   "guide": "Explore all of Leonida. Visit every region and district of the map — Vice City, the beaches, the swamps, the Keys and the countryside — until the map is fully revealed. Exploring as you play the story and side content covers most of it; mop up the last corners in free-roam afterwards.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Rob an Illegal Operation belonging to each gang. Gangs run illegal operations around Leonida; hit one operation for every gang in the state. You will learn which gangs hold which territory as you play the story, then target the remaining ones in free-roam.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — gang operation locations not yet mapped"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "kind": "misc",
+   "missable": false,
+   "stage": "cleanup",
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. Head to a bar or beach spot on Ocean Beach, order a cocktail and take in the view. PowerPyx lists this trophy's requirement as not yet known, so the exact venue is unconfirmed — try the beachfront bars on Ocean Beach and check back once players pin it down.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: requirement not yet known",
+    "Own advice from the official description — venue unconfirmed"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "kind": "misc",
+   "missable": false,
+   "stage": "cleanup",
+   "guide": "Smash your way out of a vehicle showroom in classic style. The description nods to the classic GTA showroom escape — drive a car straight through the showroom glass and out. PowerPyx lists this requirement as not yet known, so the exact showroom is unconfirmed; try the vehicle showrooms in Vice City.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: requirement not yet known",
+    "Own advice from the official description — showroom unconfirmed"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Follow through at the Kolt & Associates bowling alley. Go bowling at the Kolt & Associates alley and complete a game — follow-through means finishing your turn properly rather than walking away mid-game. Bowling is also one of the activity types for Master of None.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description — alley location not yet pinned down"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "kind": "misc",
+   "missable": false,
+   "stage": "cleanup",
+   "guide": "A partnership with mass appeal. The description points at doing something notable with your partner, but the exact requirement is not pinned down yet — no guide has confirmed what triggers it. Keep it on your list for the cleanup phase and check the cited guides as players work it out.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap",
+    "Own advice from the official description — requirement not yet pinned down"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "kind": "misc",
+   "missable": false,
+   "stage": "story",
+   "guide": "Choices made (for better or worse). This is a story-choice trophy: at some point the story asks you to choose, and the trophy records the choice. Because there is no mission replay, you cannot redo a choice — but the trophy itself is about making the choice, so it should unlock whichever way you go. Which choice it is has not been confirmed yet.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: no mission replay",
+    "Own advice from the official description — the choice is not yet confirmed"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "kind": "misc",
+   "missable": false,
+   "stage": "cleanup",
+   "guide": "Second time's the charm. The description hints at succeeding on a second attempt at something, but no guide has pinned down what. PowerPyx lists this requirement as not yet known. Treat it as a cleanup trophy to revisit once players confirm the trigger.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: requirement not yet known",
+    "Own advice from the official description — trigger not yet pinned down"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "kind": "misc",
+   "missable": false,
+   "stage": "cleanup",
+   "guide": "What the hell just happened? This is the game's odd-event trophy — something strange happens and the trophy pops. PowerPyx lists its requirement as not yet known, so the event itself is unconfirmed. It is likely tied to a random encounter or easter egg in free-roam; keep exploring and check the cited guides as it gets solved.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: requirement not yet known",
+    "Own advice from the official description — event not yet pinned down"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "stage": "activities",
+   "guide": "Bowl them over with a melee drive-by. At the bowling alley, perform a drive-by attack with a melee weapon — strike bowlers or pins from a moving vehicle. PowerPyx lists this requirement as not yet known, so the exact setup is unconfirmed; the bowling alley from Let's Go Bowling is the natural place to try it.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "PowerPyx — GTA VI Trophy Guide & Roadmap: requirement not yet known",
+    "Own advice from the official description — exact setup unconfirmed"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "kind": "money",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from robberies and heists; instead of spending them directly, pass them to your contacts to launder into clean cash. It is a cumulative total, so keep laundering after every big score and it adds up across the game.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "kind": "money",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Spend $100,000 across all shops. A cumulative total — every purchase in every shop counts, from clothes and food to weapons and car parts. It builds up naturally across a full playthrough; if you are short at the end, buy expensive items until the total tips over.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "kind": "money",
+   "missable": false,
+   "stage": "crime",
+   "guide": "Purchase all garage properties. Garages go on sale around Leonida as you earn money; buy every one of them. They double as storage for the vehicles you register for On the Spot, so buy garages before you start collecting cars in earnest.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "kind": "misc",
+   "missable": false,
+   "stage": "collectibles",
+   "guide": "Register 10 vehicles to the Scooter Bros app. Find vehicles around Leonida, then register them in the Scooter Bros app on your in-game phone. Any 10 vehicles count, so register the ones you discover while working on Whip It Good — the two trophies pair well together.",
+   "sources": [
+    "Exophase — official name, description & grade",
+    "Own advice from the official description"
+   ]
+  }
+ ]
+}

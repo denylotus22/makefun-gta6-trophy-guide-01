@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI · All 55 PS5 Trophies</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div>
+      <h1>Leonida Trophy Guide</h1>
+      <p class="sub">Grand Theft Auto VI · PlayStation 5 · all 55 trophies — 1 platinum, 2 gold, 6 silver, 46 bronze · offline, no account needed</p>
+    </div>
+    <div class="progress-box" id="progressBox">
+      <div class="progress-num"><span id="earnedCount">0</span><span class="of"> / 55 earned</span></div>
+      <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+      <div class="progress-detail" id="progressDetail"></div>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs">
+    <a href="#/tracker" data-view="tracker" class="tab">Tracker</a>
+    <a href="#/roadmap" data-view="roadmap" class="tab">Roadmap to Platinum</a>
+    <a href="#/missables" data-view="missables" class="tab">Missables</a>
+  </nav>
+</header>
+
+<main>
+  <section id="view-tracker" class="view">
+    <div class="controls" id="controls">
+      <input id="search" type="search" placeholder="Search trophies…" aria-label="Search trophies">
+      <label>Grade
+        <select id="gradeFilter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label>Kind
+        <select id="kindFilter">
+          <option value="all">All kinds</option>
+          <option value="story">Story</option>
+          <option value="missable">Missable</option>
+          <option value="collectible">Collectibles</option>
+          <option value="activity">Activities</option>
+          <option value="stranger">Strangers</option>
+          <option value="crime">Crime</option>
+          <option value="money">Money</option>
+          <option value="misc">Secrets &amp; misc</option>
+          <option value="completion">100% completion</option>
+        </select>
+      </label>
+      <label>Status
+        <select id="earnedFilter">
+          <option value="all">All</option>
+          <option value="earned">Earned</option>
+          <option value="remaining">Still to earn</option>
+        </select>
+      </label>
+      <label class="spoiler-toggle"><input id="spoilerToggle" type="checkbox" checked> Hide story spoilers</label>
+      <button id="exportBtn" type="button">Export progress</button>
+      <label class="import-label">Import progress <input id="importFile" type="file" accept="application/json,.json"></label>
+    </div>
+    <p class="list-meta" id="listMeta"></p>
+    <div class="tracker-layout">
+      <ul class="trophy-list" id="trophyList"></ul>
+      <aside class="detail" id="detailPane" aria-live="polite"></aside>
+    </div>
+  </section>
+
+  <section id="view-roadmap" class="view" hidden>
+    <div class="roadmap-intro" id="roadmapIntro"></div>
+    <ol class="roadmap" id="roadmapStages"></ol>
+    <p class="source-note">Roadmap built from the official trophy descriptions. Time and difficulty figures: PowerPyx — GTA VI Trophy Guide &amp; Roadmap (powerpyx.com). <a href="https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/">PowerPyx GTA VI Trophy Guide &amp; Roadmap</a></p>
+  </section>
+
+  <section id="view-missables" class="view" hidden>
+    <div id="missablesBody"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Names, descriptions and grades are the official PlayStation 5 trophy list, via Exophase and PSNProfiles. Guides are written for this page in our own words and cite their sources beside each trophy. No Rockstar artwork is used. Progress is saved in your browser only (localStorage) and never leaves your device. <a href="https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/">Exophase trophy list</a> · <a href="https://psnprofiles.com/trophies/43531-grand-theft-auto-vi">PSNProfiles</a> · <a href="https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/">PowerPyx guide</a></p>
+</footer>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
